@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "コーヒー",
+      "price": 300,
+      "image": "/coffee.jpg"
+    },
+    {
+      "id": 2,
+      "name": "カフェラテ",
+      "price": 400,
+      "image": "/cafelatte.jpg"
+    },
+    {
+      "id": 3,
+      "name": "エスプレッソ",
+      "price": 350,
+      "image": "/espresso.jpg"
+    }
+  ]
+  
